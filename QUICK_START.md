@@ -168,10 +168,9 @@ npm run dev
 ### Contact Form Not Working
 - Verify all three EmailJS IDs are correct (Service ID, Template ID, Public Key)
 - Check that Gmail is connected in your EmailJS dashboard
-- Ensure recipient email is set to `shubh05nagargoje@gmail.com` in the template
+- Ensure recipient email is set to `@gmail.com` in the template
 - Check browser console for errors
 - Verify you're using the Public Key, not Private Key
 
 ---
 
-**Ready to impress?** Your portfolio is production-ready! 🎉
