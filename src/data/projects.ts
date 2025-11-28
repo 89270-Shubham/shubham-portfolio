@@ -59,7 +59,7 @@ export const projects: Project[] = [
   title: 'Brick Manufacturing Factory Landing Page',
   description: 'A professional landing page for a brick manufacturing company, showcasing products, factory process, and contact details with a modern and industrial design.',
   longDescription: 'A responsive and visually appealing landing page built for a brick manufacturing factory. It highlights company information, product types, manufacturing process, and quality assurance. Designed with React and Tailwind CSS for speed and flexibility, the page helps attract construction clients, display product quality, and generate business inquiries through an integrated contact form.',
-  image: 'src/images/brick-building-with-sky-background.jpg',
+  image: 'images/brick-building-with-sky-background.jpg',
   technologies: ['React', 'Tailwind CSS', 'Vite'],
   features: [
     'Hero section with factory background and call-to-action',
@@ -71,7 +71,7 @@ export const projects: Project[] = [
     'Contact form integrated with email service(emailJS)',
     'Fully responsive design for mobile, tablet, and desktop',
   ],
-  liveUrl: 'https://a-bricks-factory.lovable.app/',
+  liveUrl: 'https://abricks.netlify.app/',
   githubUrl: 'https://github.com/89270-Shubham/a-bricks-factory',
   category: 'fullstack',
 },
@@ -125,7 +125,7 @@ export const projects: Project[] = [
   title: 'Email Extraction & Lead Enrichment',
   description: 'An intelligent workflow that extracts emails from websites and enriches lead data using Google Maps API and Google Gemini LLM in n8n.',
   longDescription: 'This n8n workflow automatically extracts emails from specified websites, validates them, and enriches the lead information with location data using Google Maps API. Google Gemini LLM is used to categorize and summarize the leads for actionable insights, reducing manual research time by over 70%.',
-  image: 'src/images/nn-workflow-emailextraction.jpg',
+  image: 'images/nn-workflow-emailextraction.jpg',
   technologies: ['n8n', 'Google Maps API', 'Google Gemini LLM','HTTP Request'],
   features: [
     'Automated email extraction from target websites',
